@@ -1,0 +1,60 @@
+body {
+    font-family: 'Poppins';
+}
+
+header {
+    height: 75vh;
+    background-image: url('https://as2.ftcdn.net/v2/jpg/06/29/12/13/1000_F_629121375_rsOJS5jeSNy5ew7QPhCY3ZaoZAbbnuZo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.header-section {
+    height: 100vh;
+}
+
+.container {
+    width: 30%;
+    margin: auto;
+    padding: 12px;
+    height: 100%;
+    align-items: center;
+    color: black;
+}
+.header-quote {
+    padding: 5px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    width: 466px;
+}
+.header-title {
+    font-size: 19vh;
+    text-align: center;
+    padding: 15px;
+    /* margin: 0 10px; */
+    text-transform: uppercase;
+    letter-spacing: 14px;
+    font-weight:bold;
+    margin: -19px -422px;
+    line-height: 100px;
+
+}
+.subtitle {
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 45px;
+    width: 423px;
+}
+.btn {
+    text-align: center;
+    color: white;
+    padding: 8px;
+    margin: 2px;
+    background-color: black;
+    width: 122px;
+    
+}
